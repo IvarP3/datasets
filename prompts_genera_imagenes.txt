@@ -2,14 +2,6 @@ Genera una imagen de un gatito feliz jugando con sus juguetes en una casa replet
 Dibujame una imagen de un gatito feliz jugando con sus juguetes en una casa repleta de mueles y algunos rascadores parecido a una sala familiar de una casa.
 Dame un gatito feliz jugando con sus juguetes en una casa repleta de mueles y algunos rascadores parecido a una sala familiar de una casa.
 Pinta un gatito feliz jugando con sus juguetes en una casa repleta de mueles y algunos rascadores parecido a una sala familiar de una casa.
-Crea una imagen de un gatito alegre jugando con sus juguetes en una sala llena de muebles y rascadores.
-Quiero ver un gatito feliz jugando con sus juguetes en una casa acogedora con muebles y rascadores.
-Diseña una ilustración donde un gato pequeño y feliz juega con juguetes entre los muebles de una sala familiar.
-Muestra un dibujo de un gatito contento entreteniéndose con sus juguetes en una habitación llena de muebles.
-Pinta una escena de un gato feliz rodeado de sus juguetes en una casa con rascadores y muebles.
-Genera un dibujo de un gato alegre jugando entre los muebles de una sala llena de juguetes.
-Hazme una imagen donde aparezca un gatito feliz con sus juguetes en una sala hogareña.
-Dibuja un tierno gatito jugando en su casa con rascadores y muchos juguetes.
 Genera una imagen detallada de un perro corriendo alegremente por un campo cubierto de flores silvestres, con el cielo azul y montañas al fondo iluminadas por el sol de la tarde.
 Dibuja una escena donde un perro pastor juega con una pelota en un prado verde, rodeado de árboles, flores amarillas y una valla de madera al costado.
 Pinta una ilustración realista de un perro feliz corriendo entre mariposas en un campo abierto, con un viento suave moviendo la hierba alta.
@@ -106,3 +98,147 @@ Dibuja una imagen donde un científico activa una máquina del tiempo en su labo
 Crea una pintura donde una persona atraviesa un portal luminoso que muestra distintas eras históricas fusionándose.
 Pinta una escena donde viajeros del tiempo caminan por una ciudad del pasado mientras observan edificios antiguos con asombro.
 Genera una ilustración de un reloj gigante flotando en el aire mientras fragmentos de distintas épocas se entrelazan alrededor.
+Crea una imagen de una ciudad moderna donde robots y humanos conviven pacíficamente, compartiendo tareas en cafés y parques tecnológicos.
+Dibuja una ilustración de un androide cuidando a un niño en una casa futurista llena de pantallas y luces suaves.
+Genera una pintura digital donde robots obreros trabajan junto a ingenieros humanos en una fábrica limpia y automatizada.
+Pinta una escena urbana del futuro con robots artistas pintando murales y músicos cibernéticos tocando en las calles.
+Dibuja una imagen panorámica de una cascada gigantesca cayendo entre rocas cubiertas de musgo y rodeada de vegetación densa.
+Crea una ilustración de una cascada tropical con arcoíris formándose entre la bruma y aves exóticas volando sobre el agua.
+Pinta una escena serena donde una cascada cae suavemente en un lago cristalino rodeado de flores y helechos.
+Genera una pintura realista de una cascada en medio de montañas verdes, con rayos de sol atravesando las hojas de los árboles.
+Crea una imagen de una gran ciudad por la noche, con luces de neón reflejándose en las calles mojadas y personas caminando bajo paraguas.
+Dibuja una ilustración de una avenida iluminada por carteles publicitarios, bares abiertos y taxis amarillos transitando.
+Pinta una escena con músicos callejeros tocando jazz en una esquina mientras la gente conversa en una terraza cercana.
+Genera una pintura digital de una ciudad moderna con puentes iluminados, edificios de cristal y un cielo nocturno brillante.
+Crea una imagen épica de un grupo de aventureros cruzando un puente hacia un castillo flotante en un valle cubierto de niebla.
+Dibuja una escena donde magos y caballeros se reúnen en una taberna iluminada por antorchas antes de iniciar una misión.
+Pinta una ilustración de un reino medieval rodeado de murallas y dragones volando sobre montañas lejanas.
+Genera una pintura digital de una batalla entre elfos y orcos en un bosque encantado bajo un cielo tormentoso.
+Crea una imagen de una pareja abrazándose bajo la lluvia, con reflejos de luces en el suelo mojado y un ambiente romántico y cálido.
+Dibuja una escena donde dos personas se toman de la mano en un campo de flores al atardecer, con el viento moviendo suavemente la hierba.
+Pinta una ilustración de una carta de amor abierta sobre una mesa con una taza de café y pétalos de rosas alrededor.
+Genera una pintura digital de un reencuentro emotivo en una estación de tren, con lágrimas, sonrisas y un fondo lleno de luz dorada.
+Dibuja una imagen de niños corriendo por un parque soleado con globos, risas y un perro acompañándolos.
+Crea una ilustración de un grupo de niños construyendo una casa de cartón en el jardín, con pinturas y cajas desordenadas.
+Pinta una escena donde un niño observa el cielo estrellado desde su ventana mientras imagina aventuras espaciales.
+Genera una pintura digital de una niña jugando con su cometa colorida en una colina verde con el cielo azul despejado.
+Crea una imagen de un pintor en su estudio rodeado de lienzos, pinceles y manchas de color, mientras una ventana deja pasar la luz natural.
+Dibuja una ilustración de una joven artista pintando un mural urbano con colores vivos y detalles abstractos.
+Pinta una escena donde un escultor trabaja con mármol mientras el polvo y la luz crean un ambiente místico.
+Genera una pintura digital de una galería de arte contemporáneo llena de cuadros coloridos y visitantes observando en silencio.
+Dibuja una escena donde una ciudad abandonada está cubierta por vegetación, autos oxidados y edificios semiderrumbados.
+Crea una ilustración de un viajero solitario caminando entre ruinas con una mochila y una máscara de respiración.
+Pinta una imagen de robots explorando lo que queda de una civilización antigua bajo un cielo gris lleno de polvo.
+Genera una pintura digital de un refugio humano en un mundo desértico, con estructuras improvisadas y antenas oxidadas.
+Crea una imagen de un viajero solitario caminando por un vasto desierto dorado, con dunas infinitas y el sol cayendo en el horizonte.
+Dibuja una escena donde una caravana de camellos avanza lentamente bajo un cielo rojo, dejando huellas en la arena.
+Pinta una ilustración de un oasis oculto entre palmeras y agua cristalina, rodeado de un paisaje árido y caluroso.
+Genera una pintura digital de una tormenta de arena arrasando un campamento, con tiendas de tela ondeando violentamente.
+Dibuja una imagen del nacimiento de una estrella en medio de una nebulosa de colores brillantes, rodeada de polvo cósmico.
+Crea una ilustración de una nave espacial viajando entre planetas gigantes y anillos luminosos de asteroides.
+Pinta una escena de galaxias espirales chocando lentamente en un espectáculo de luces y energía.
+Genera una pintura digital de un astronauta observando una supernova desde la ventana de su estación espacial.
+Crea una imagen de una granja al amanecer, con vacas pastando, gallinas picoteando y el sol dorando el campo.
+Dibuja una escena donde un granjero alimenta a los animales mientras el humo sale del techo de su casa de madera.
+Pinta una ilustración de un establo lleno de heno, con un caballo asomando su cabeza por la puerta abierta.
+Genera una pintura digital de una tarde tranquila en la granja, con niños jugando y un perro acostado bajo un árbol.
+Dibuja una imagen de un templo egipcio iluminado por antorchas, con jeroglíficos tallados y columnas gigantes.
+Crea una ilustración de un templo maya oculto entre la selva, cubierto de raíces y envuelto por niebla matinal.
+Pinta una escena de ruinas griegas al atardecer, con estatuas derrumbadas y sombras largas proyectadas por el sol.
+Genera una pintura digital de una ceremonia en un templo oriental rodeado de faroles rojos y montañas lejanas.
+Crea una imagen de un buzo explorando el fondo del océano, rodeado de peces luminosos y corales de formas extrañas.
+Dibuja una escena donde una ballena nada majestuosamente entre rayos de luz que atraviesan la superficie azul.
+Pinta una ilustración de una ciudad submarina futurista con cúpulas transparentes y criaturas marinas nadando alrededor.
+Genera una pintura digital de un naufragio cubierto por algas, con cofres, restos de madera y un silencio absoluto bajo el agua.
+Dibuja una imagen de una densa selva con árboles altísimos, lianas colgantes y rayos de sol filtrándose entre las hojas.
+Crea una ilustración donde un explorador camina por la jungla con su linterna, rodeado de sonidos y ojos brillando en la oscuridad.
+Pinta una escena de una cascada oculta en medio de la selva, con aves exóticas volando y un arcoíris formado por la bruma.
+Genera una pintura digital de un templo antiguo cubierto por la vegetación, perdido entre raíces y árboles gigantes.
+Crea una imagen de una ciudad asiática iluminada con faroles rojos, lluvia cayendo suavemente y reflejos en el pavimento.
+Dibuja una escena donde un callejón lleno de carteles en japonés brilla bajo luces de neón y vapor saliendo de los puestos de ramen.
+Pinta una ilustración de un tren urbano atravesando una metrópolis futurista de estilo oriental con rascacielos color púrpura.
+Genera una pintura digital de una calle llena de tiendas tradicionales, paraguas de papel y gente caminando entre luces cálidas.
+Dibuja una imagen surrealista de una persona flotando entre nubes con fragmentos de recuerdos y relojes suspendidos.
+Crea una ilustración donde una habitación se transforma lentamente en un océano, mezclando realidad y fantasía.
+Pinta una escena onírica donde escaleras, puertas y paisajes se conectan sin lógica, como en un laberinto mental.
+Genera una pintura digital de un rostro dormido del que emergen pensamientos convertidos en mariposas luminosas.
+Crea una imagen de un amanecer sobre un valle cubierto de niebla, con los primeros rayos de sol iluminando lentamente el horizonte.
+Dibuja una escena donde una persona observa el amanecer desde la cima de una montaña, con el viento moviendo su abrigo y una sensación de paz.
+Pinta una ilustración de una ciudad despertando, con las luces apagándose y el cielo tiñéndose de naranja y dorado.
+Genera una pintura digital donde el sol asoma detrás de un océano tranquilo, simbolizando un nuevo comienzo.
+Dibuja una imagen de una persona caminando sola por una calle vacía bajo la lluvia, con paraguas en mano y faroles encendidos.
+Crea una ilustración de una habitación silenciosa iluminada solo por la luz del monitor, mientras alguien escribe en su computadora.
+Pinta una escena donde una figura solitaria observa el mar desde un acantilado, mientras las olas rompen lentamente.
+Genera una pintura digital de un banco vacío en un parque otoñal, con hojas cayendo y un aire melancólico.
+Crea una imagen simbólica de una persona emergiendo del fuego, rodeada de luz, representando el renacer interior.
+Dibuja una ilustración donde una mariposa sale de un capullo gigante en medio de un bosque iluminado.
+Pinta una escena surrealista donde una estatua de piedra se convierte en humano bajo un rayo de luz.
+Genera una pintura digital de una ciudad gris transformándose lentamente en un jardín lleno de color y vida.
+Dibuja una imagen de un ave rompiendo las cadenas que la atan y elevándose hacia un cielo despejado.
+Crea una ilustración donde una persona corre por un campo abierto mientras el viento mueve sus brazos como alas.
+Pinta una escena en la que cientos de aves migran juntas al amanecer sobre montañas y ríos.
+Genera una pintura digital de una figura humana flotando en el aire, rodeada de nubes y luz brillante, simbolizando la libertad.
+Crea una imagen de una tormenta eléctrica sobre el océano, con relámpagos iluminando las olas y el cielo cubierto de nubes negras.
+Dibuja una escena donde un viajero se refugia bajo un árbol mientras el viento agita los campos y el trueno retumba a lo lejos.
+Pinta una ilustración de una ciudad bajo la lluvia intensa, con luces reflejadas en el asfalto y paraguas moviéndose entre el viento.
+Genera una pintura digital de una tormenta en el desierto, con remolinos de arena cubriendo el horizonte y el sol apenas visible.
+Dibuja una imagen de un callejón oscuro iluminado por una sola farola, con sombras que insinúan figuras al fondo.
+Crea una ilustración de una mansión antigua con ventanas rotas y luces encendidas solo en una habitación.
+Pinta una escena donde un detective sostiene una linterna entre archivos polvorientos, buscando una pista en la penumbra.
+Genera una pintura digital de un bosque nocturno envuelto en niebla, con ojos brillando entre los árboles y una luna oculta.
+Crea una imagen simbólica de un reloj derritiéndose en el desierto, con arena cayendo lentamente alrededor.
+Dibuja una escena donde una persona envejece progresivamente frente a un espejo que refleja distintas etapas de su vida.
+Pinta una ilustración de un bosque en cuatro estaciones al mismo tiempo: primavera, verano, otoño e invierno coexistiendo.
+Genera una pintura digital donde relojes flotan en el cielo mientras la ciudad se disuelve como si el tiempo se detuviera.
+Dibuja una imagen de una persona escribiendo en una libreta mientras el entorno se llena de colores que representan sus ideas.
+Crea una ilustración de un pintor tocando el lienzo y viendo cómo la pintura se convierte en vida ante sus ojos.
+Pinta una escena donde una bailarina gira en medio de luces flotantes que forman patrones en el aire.
+Genera una pintura digital de una mente abierta de la que emergen constelaciones, notas musicales y formas abstractas.
+Crea imagen mostrando volcán en plena erupción, lava descendiendo por laderas ardientes mientras nubes oscuras cubren el cielo y relámpagos cruzan el humo incandescente.
+Dibuja escena donde aldeanos huyen entre cenizas y fuego, reflejos rojos iluminando rostros de miedo bajo una lluvia de piedras ardientes.
+Pinta ilustración de paisaje cubierto de lava solidificada, árboles calcinados y un silencio posterior que transmite destrucción y belleza al mismo tiempo.
+Genera pintura digital de volcán visto desde lejos, río de fuego avanzando lentamente mientras aves escapan hacia el amanecer gris.
+Dibuja imagen de androide sentado frente a un monitor mostrando recuerdos humanos, cables conectados a su cabeza reflejando pensamientos en fragmentos de código.
+Crea ilustración donde una ciudad entera brilla con luces azules mientras una red neuronal invisible conecta edificios, personas y máquinas respirando en sincronía.
+Pinta escena interior de laboratorio futurista, científicos observando cómo una IA despierta lentamente y comienza a reconocer su propio reflejo en una pantalla.
+Genera pintura digital donde una mente artificial emerge de líneas luminosas flotando en el aire, fusionando tecnología y emoción humana.
+Crea imagen de viajero caminando por caminos infinitos rodeado de montañas, cielo cambiante y viento que arrastra hojas y memorias del pasado.
+Dibuja escena de barco avanzando por mares desconocidos, velas desgarradas por tormenta mientras una luz distante promete tierra firme.
+Pinta ilustración donde un explorador abre mapa antiguo frente a ruinas cubiertas por raíces, mientras el sol filtra rayos sobre piedras talladas.
+Genera pintura digital de tren avanzando entre nubes, atravesando paisajes imposibles y horizontes que parecen moverse junto al viajero.
+Dibuja imagen de habitación vacía con fotografías desgastadas pegadas en las paredes, reloj detenido marcando una hora que nunca cambia y una silla balanceándose lentamente.
+Crea ilustración donde una persona observa desde una ventana la ciudad que alguna vez amó, reflejo en el vidrio mostrando una versión más joven de sí misma.
+Pinta escena con juguetes viejos sobre una mesa polvorienta, sol cayendo por última vez en la casa donde creció alguien que ya no volverá.
+Genera pintura digital de una calle desierta al anochecer, faroles encendidos, lluvia cayendo sobre cartas abandonadas en un buzón oxidado.
+Crea imagen mostrando ciudad silenciosa en madrugada, luces tenues de neón reflejadas en charcos, calles vacías respirando un aire de espera eterna.
+Dibuja escena con edificios apagados, un solo tren avanzando entre sombras, niebla cubriendo avenidas mientras una melodía invisible viaja entre los cables eléctricos.
+Pinta ilustración de ventana encendida en edificio solitario, figura mirando hacia abajo mientras lluvia cae como si el tiempo se deshiciera lentamente.
+Genera pintura digital de metrópoli dormida, horizonte cubierto de humo y carteles luminosos parpadeando como recuerdos que se niegan a morir.
+Dibuja imagen de hechicera extendiendo manos sobre círculo de runas brillantes, energía girando en espiral mientras su rostro se ilumina con luz antigua.
+Crea ilustración donde un libro flota abierto en el aire, palabras saliendo como fuego dorado formando figuras que cuentan historias olvidadas.
+Pinta escena de torre solitaria en lo alto de un acantilado, viento agitando capas y símbolos ardiendo en el suelo mientras la luna observa en silencio.
+Genera pintura digital donde un mago camina entre portales suspendidos, cada uno mostrando un destino distinto, ninguno completamente real.
+Crea imagen de ciudad enterrada bajo arena, templos semidestruidos brillando bajo luz dorada que revela ecos de una cultura extinta.
+Dibuja escena con exploradores recorriendo pasadizos cubiertos de jeroglíficos, antorchas reflejando sombras de estatuas que parecen observarlos.
+Pinta ilustración de ruinas envueltas por raíces, piedras cubiertas de musgo, aves revoloteando sobre lo que una vez fue una gran metrópoli.
+Genera pintura digital mostrando columnas caídas, lagunas formadas sobre antiguos patios, silencio profundo que parece contar historias sin palabras.
+Dibuja imagen de persona sentada frente a lago inmóvil, reflejo del cielo fusionándose con el agua, respiración lenta y tiempo detenido.
+Crea ilustración de templo rodeado de bambú, campanas sonando a lo lejos, aire tibio moviendo hojas mientras el sol se filtra suavemente.
+Pinta escena con figura meditando bajo cascada, agua cayendo como hilo de cristal, naturaleza resonando en perfecto equilibrio.
+Genera pintura digital de jardín zen cubierto de neblina, rocas ordenadas con precisión, sensación de calma que se extiende más allá del lienzo.
+Crea imagen mostrando habitación antigua donde relojes detenidos y fotos descoloridas cubren las paredes, aroma a polvo mezclado con ecos de risas que ya no existen.
+Dibuja escena de persona abriendo un baúl lleno de cartas, papeles amarillentos volando con la brisa, luz de tarde colándose por una ventana cerrada durante años.
+Pinta ilustración de calle antigua donde sombras caminan sin cuerpo, tiendas cerradas y un silencio que parece recordar.
+Genera pintura digital de vieja estación abandonada, rieles oxidados y una maleta olvidada bajo el banco de madera, como si esperara a alguien que nunca volvió.
+Dibuja imagen de ciudad reflejada en el cielo, edificios invertidos flotando mientras las calles reales se desvanecen lentamente.
+Crea ilustración donde una persona cruza un espejo líquido, su reflejo continúa caminando en sentido contrario hacia otro universo.
+Pinta escena de tren suspendido entre dos mundos, mitad iluminado por sol eterno y mitad envuelto en noche infinita.
+Genera pintura digital mostrando un horizonte fracturado, tiempo fluyendo en direcciones opuestas y personas caminando sin gravedad.
+Crea imagen de ciudad futurista vacía, pantallas encendidas repitiendo mensajes antiguos mientras el viento arrastra hojas metálicas por las avenidas.
+Dibuja escena de robot observando retrato humano colgado en una pared cubierta de polvo, luces intermitentes parpadeando como recuerdos eléctricos.
+Pinta ilustración de astronauta regresando a Tierra desierta, edificios cubiertos por vegetación, cielo rojizo reflejando su casco agrietado.
+Genera pintura digital de metrópoli abandonada, trenes automáticos aún en movimiento, hologramas proyectando anuncios para una sociedad que ya no existe.
+Dibuja imagen de persona caminando sola por desierto interminable, huellas borrándose tras cada paso, sol cayendo como si el tiempo no importara.
+Crea ilustración de viajero cruzando puente de piedra suspendido sobre abismo, mirada fija en una luz distante que parece moverse con él.
+Pinta escena de figura sentada frente a horizonte vacío, pensamientos transformándose en aves que se alejan lentamente.
+Genera pintura digital mostrando una puerta abierta en medio del bosque, al cruzarla el paisaje se convierte en un reflejo del alma del caminante.
